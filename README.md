@@ -18,6 +18,7 @@ organizar solicitações de suporte, atribuir a técnicos e acompanhar o status.
 ## Tecnologias
 - Python
 - PostgreSQL
+- Django
 
 ## Como rodar
 Em breve.
