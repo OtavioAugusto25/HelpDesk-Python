@@ -22,3 +22,5 @@ organizar solicitações de suporte, atribuir a técnicos e acompanhar o status.
 
 ## Como rodar
 Em breve.
+
+## Esse projeto está tendo assistência de IA para ser desenvolvido 
